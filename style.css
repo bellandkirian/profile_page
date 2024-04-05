@@ -1,0 +1,141 @@
+/* Write some CSS below */
+body {
+background: linear-gradient(#B6E4FF,white);
+font-size: 14px;
+font-family: Verdana, sans-serif;
+color: 404040;
+text-align: center;
+}
+div{
+    padding: 40px;
+    background-color: white;
+    box-shadow: 0 10px 20px rgb(236, 228, 143);
+    margin: 50px auto;
+    border-radius: 5px;
+    width: 600px;
+
+}
+a{
+    background-color: rgb(255, 188, 13);
+    color: white; 
+    border-radius: 10px;
+    padding: 15px 25px;
+
+}
+
+a:hover {
+    background-color:rgb(116, 192, 252)
+}
+a{
+    text-decoration: none;
+}
+ h2 {
+    font-size: 18px;
+    color: rgb(255, 188, 13);
+}
+
+h1 {
+    font-size: 30px;
+    color: rgb(255, 188, 13);
+
+}
+
+img{
+    border-radius: 50%;
+    height: 120px;
+    object-fit: cover;
+    
+}
+
+p{
+    font-size: 16px;
+    text-align: justify;
+}
+
+li{
+    font-size: 16px;
+    left: 20%;
+}
+
+
+
+.fa-brands {
+    font-size: 30px;
+    margin-left: 50%;
+    cursor: pointer;
+
+}
+
+.left-brands {
+    margin-right: 90%;
+    display: flex;
+}
+
+#email {
+    background-color: #B6E4FF;
+    
+}
+
+
+.galery {
+    height: 120px;
+    object-fit: cover;
+    border-radius: 0%;
+
+}
+
+.contenue {
+    max-width: 600px;
+  }
+  
+  
+  
+  .email-form {
+    margin-top: 30px;
+
+  }
+  
+  .email-form input {
+    padding: 10px;
+    margin-right: 10px;
+    width: 500px;
+    display: inline;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    
+  }
+  
+  .email-form a {
+    padding: 10px 20px;
+    color: white;
+    background-color: rgb(255, 188, 13);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+   
+  }
+  
+  .email-form a:hover {
+    background-color: rgb(116, 192, 252);
+
+  }
+
+
+
+
+.align {
+   text-align: left;
+   display: inline;
+}
+
+
+
+.top {
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+
+  
+  
